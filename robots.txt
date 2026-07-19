@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Arama motorlarina site haritasinin yeri
+Sitemap: https://senolorganizasyon.com/sitemap.xml
